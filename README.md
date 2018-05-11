@@ -1,6 +1,6 @@
 # ReduxSimpleStarter
 
-Primeiro Commit
+Primeiro Commit 
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
 
